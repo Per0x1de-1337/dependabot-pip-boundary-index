@@ -1,0 +1,3 @@
+--extra-index-url https://per0x1de-1337.github.io/dependabot-pip-boundary-index/simple/
+db-boundary-candidate==1.0.0
+db-boundary-host==1.0.0

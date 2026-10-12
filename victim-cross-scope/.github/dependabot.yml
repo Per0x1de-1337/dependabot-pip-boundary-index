@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: /pip
+    schedule:
+      interval: daily
+    groups:
+      boundary-group:
+        patterns:
+          - "db-boundary-*"
